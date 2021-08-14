@@ -1,5 +1,5 @@
 ---
-title: '試験When to Use Static Generation v.s. Server-side Rendering'
+title: '★試験When to Use Static Generation v.s. Server-side Rendering'
 date: '2020-01-02'
 ---
 
